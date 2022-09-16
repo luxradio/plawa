@@ -165,8 +165,8 @@
 
         <!-- Text at center of ground -->
                <p><marquee behavior="scroll" direction="left" scrollamount="4" scrolldelay="20" width="408" "="" style="width:"408px"=""> 
-<font size="5" font color="ff0000">♥<font color="aaa9ad">´¨•.¸¸.♫..𝑺𝒓𝒆𝒔𝒕𝒊 𝒏𝒆𝒌𝒐𝒈 𝒔𝒍𝒖𝒄𝒂𝒋𝒏𝒐, 𝒕𝒐 𝒋𝒆 𝒔𝒖𝒅𝒃𝒊𝒏𝒂...𝑷𝒐𝒔𝒕𝒂𝒕𝒊 𝒎𝒖 𝒑𝒓𝒊𝒋𝒂𝒕𝒆𝒍𝒋 , 𝒕𝒐 𝒋𝒆 𝒏𝒂𝒔𝒂 𝒐𝒅𝒍𝒖𝒌𝒂...𝑨𝒍𝒊,𝒛𝒂𝒗𝒐𝒍𝒋𝒆𝒕𝒊 𝒕𝒖 𝒊𝒔𝒕𝒖 𝒐𝒔𝒐𝒃𝒖,𝒋𝒆 𝒖𝒗𝒋𝒆𝒌 𝒗𝒂𝒏 𝒏𝒂𝒔𝒆 𝒌𝒐𝒏𝒕𝒓𝒐𝒍𝒆´¨•.¸¸.♫..♥..(<font color="ff0000">♥‿♥<font color="aaa9ad">)</marquee>
-<font size="5" font color="aaa9ad"> 𝓓𝓔𝓢𝓘𝓖𝓝𝓔𝕯 𝓑𝓨 »♠𝕰𝖝𝖙𝖗𝖆𝕷𝖚𝖝♠« 𝕷𝖀𝖃𝟏(𝟏𝟖𝟎𝟎𝟎𝟏𝟖).</p>
+<font size="5" font color="ff0000">♥<font color="000000">´¨•.¸¸.♫..𝑺𝒓𝒆𝒔𝒕𝒊 𝒏𝒆𝒌𝒐𝒈 𝒔𝒍𝒖𝒄𝒂𝒋𝒏𝒐, 𝒕𝒐 𝒋𝒆 𝒔𝒖𝒅𝒃𝒊𝒏𝒂...𝑷𝒐𝒔𝒕𝒂𝒕𝒊 𝒎𝒖 𝒑𝒓𝒊𝒋𝒂𝒕𝒆𝒍𝒋 , 𝒕𝒐 𝒋𝒆 𝒏𝒂𝒔𝒂 𝒐𝒅𝒍𝒖𝒌𝒂...𝑨𝒍𝒊,𝒛𝒂𝒗𝒐𝒍𝒋𝒆𝒕𝒊 𝒕𝒖 𝒊𝒔𝒕𝒖 𝒐𝒔𝒐𝒃𝒖,𝒋𝒆 𝒖𝒗𝒋𝒆𝒌 𝒗𝒂𝒏 𝒏𝒂𝒔𝒆 𝒌𝒐𝒏𝒕𝒓𝒐𝒍𝒆´¨•.¸¸.♫..♥..(<font color="ff0000">♥‿♥<font color="000000">)</marquee>
+<font size="5" font color="000000"> 𝓓𝓔𝓢𝓘𝓖𝓝𝓔𝕯 𝓑𝓨 »♠𝕰𝖝𝖙𝖗𝖆𝕷𝖚𝖝♠« 𝕷𝖀𝖃𝟏(𝟏𝟖𝟎𝟎𝟎𝟏𝟖).</p>
       </div>
       </div>
       <div id="ground" style="width: 480px; height: 480px;"></div>
